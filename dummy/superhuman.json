@@ -1,0 +1,11 @@
+{
+  "isAdmin": true,
+  "active": true,
+  "kind": "SuperHuman",
+  "firstName": "YOUR FIRST NAME",
+  "lastName": "YOUR LAST NAME",
+  "email": "YOUR EMAIL ADDRESS",
+  "password": "YOUR PASSWORD",
+  "about": "YOUR ABOUT MESSAGE - JAVASCRIPT DEVELOPER ETC.",
+  "description": "YOUR DESCRIPTION TEXT"
+}
